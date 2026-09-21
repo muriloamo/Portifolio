@@ -34,7 +34,7 @@ Minha trajetória é marcada pela versatilidade: alio a resolução ágil de inc
 - **Linguagens:** Python, VBA, SQL, JavaScript, HTML5, CSS3.
 - **Análise de Dados:** Big Data, Pandas, automação de planilhas e scripts para otimização de rotinas de TI.
 - **Banco de Dados:** Modelagem e gestão em PostgreSQL e bancos relacionais.
-- Clique [aqui](https://gist.github.com/muriloamo/32b566360328cc398a5d424abfea2ad2.js) para acessar o script.
+- Clique [aqui](https://github.com/muriloamo/Portifolio/blob/main/SQL) para acessar o script.
 
 ### 🗣️ Habilidades Comportamentais (Soft Skills)
 - Comunicação clara e didática (Formação em Licenciatura em Letras).
