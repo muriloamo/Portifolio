@@ -7,10 +7,7 @@ Minha tragetória profissional inclui Manutenção de equipamentos de informáti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muriloaugustomendes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloam75@gmail.com)
 [![Location](https://img.shields.io/badge/Localização-Belo%20Horizonte%2FMG-brightgreen?style=for-the-badge)](#)
-[![SQL](https://gist.github.com/muriloamo/32b566360328cc398a5d424abfea2ad2.js)](#)
-Clique [aqui](https://gist.github.com/muriloamo/32b566360328cc398a5d424abfea2ad2.js) para acessar o script.
 
-<script src=https://gist.github.com/muriloamo/32b566360328cc398a5d424abfea2ad2.js>SQL</script>
 ---
 
 ## 📌 Sobre Mim
@@ -36,7 +33,8 @@ Minha trajetória é marcada pela versatilidade: alio a resolução ágil de inc
 ### 💻 Desenvolvimento, Dados & Automação
 - **Linguagens:** Python, VBA, SQL, JavaScript, HTML5, CSS3.
 - **Análise de Dados:** Big Data, Pandas, automação de planilhas e scripts para otimização de rotinas de TI.
-- **Banco de Dados:** Modelagem e gestão em PostgreSQL e bancos relacionais. https://github.com/muriloamo/Portifolio/blob/main/SQL
+- **Banco de Dados:** Modelagem e gestão em PostgreSQL e bancos relacionais.
+- Clique [aqui](https://gist.github.com/muriloamo/32b566360328cc398a5d424abfea2ad2.js) para acessar o script.
 
 ### 🗣️ Habilidades Comportamentais (Soft Skills)
 - Comunicação clara e didática (Formação em Licenciatura em Letras).
